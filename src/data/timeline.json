@@ -49,14 +49,20 @@
   },
   {
     "year": "2026",
-    "title": "Graduating — B.Tech, Metallurgical & Materials Engineering, VNIT Nagpur",
-    "description": "Completing the degree with a focus on physical metallurgy and materials characterization.",
+    "title": "Graduated — B.Tech, Metallurgical & Materials Engineering, VNIT Nagpur",
+    "description": "Completed the degree with a focus on physical metallurgy and materials characterization.",
     "category": "Education"
   },
   {
-    "year": "Next",
-    "title": "Materials R&D / Failure Analysis Role",
-    "description": "Looking for hands-on roles in materials R&D, failure analysis, semiconductor materials, or advanced manufacturing.",
+    "year": "2026",
+    "title": "Began M.Tech, Computational Materials Engineering, IIT Bombay",
+    "description": "Extending an experimental background — mechanical testing, SEM fractography, additive manufacturing — into ICME-style modeling: CALPHAD-informed alloy design, phase-field simulation, and machine-learned interatomic potentials.",
+    "category": "Education"
+  },
+  {
+    "year": "After M.Tech",
+    "title": "Materials R&D Role, Bridging Computation and Experiment",
+    "description": "Looking for roles and research that connect predictive materials modeling back to real experimental validation — materials R&D, failure analysis, semiconductor materials, or advanced manufacturing.",
     "category": "Goal"
   }
 ]

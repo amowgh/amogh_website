@@ -1,16 +1,18 @@
 {
   "name": "Amogh",
   "fullName": "Amogh",
-  "role": "Metallurgical & Materials Engineer · Guitarist",
-  "tagline": "Materials, I study why they fail, and how to make them better.",
-  "location": "Nagpur, India",
+  "role": "Computational Materials Engineer · Guitarist",
+  "tagline": "I study why materials fail, and how to make them better — on the bench, in simulation, and on the fretboard.",
+  "location": "Mumbai, India",
   "email": "amoghmoholkar@gmail.com",
   "social": {
-    "linkedin": "https://www.linkedin.com/in/amogh-moholkar-561056119",
-    "youtube": "https://youtube.com/@yourusername"
+    "github": "https://github.com/yourusername",
+    "linkedin": "https://linkedin.com/in/yourusername",
+    "youtube": "https://youtube.com/@yourusername",
+    "instagram": "https://instagram.com/yourusername"
   },
   "intro": {
-    "short": "Recent Metallurgical & Materials Engineering graduate from VNIT Nagpur, focused on advanced materials, semiconductors, failure analysis, and materials characterization with additive manufacturing and alloy development as running threads through most of my work.",
-    "long": "I'm a Metallurgical & Materials Engineering graduate from VNIT Nagpur. My work sits at the intersection of metallurgy, materials, semiconductors, failure analysis, and materials characterization. I like problems where, say, a microstructure has to explain a macro-scale failure, whether that's a fracture surface under SEM or a stress-strain curve that doesn't behave the way theory says it should. Outside the lab, I play guitar: acoustic and electric, mostly chasing tone and recording covers with friends rather than technical shredding."
+    "short": "Metallurgical & Materials Engineering graduate (VNIT Nagpur), now pursuing an M.Tech in Computational Materials Engineering at IIT Bombay. My core interests — physical metallurgy, failure analysis, and materials characterization — haven't changed; I'm extending them into computational modeling, connecting predicted microstructure back to real experimental behavior.",
+    "long": "I'm a Metallurgical & Materials Engineering graduate from VNIT Nagpur, now pursuing an M.Tech in Computational Materials Engineering at IIT Bombay. My work so far has been mostly experimental — SEM fractography, mechanical testing, investment casting — and the questions I kept running into were computational ones: given a microstructure, can I predict how and where it'll fail before I ever pull a specimen. That's the gap I'm working on now, through ICME-style modeling — CALPHAD-informed alloy design, phase-field microstructure evolution, and machine-learned interatomic potentials standing in for expensive DFT — while staying grounded in the experimental characterization I already know how to do. Outside the lab, I play guitar — acoustic and electric, mostly chasing tone and recording covers and collaborations rather than technical shredding."
   }
 }
