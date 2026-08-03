@@ -4,7 +4,7 @@ import GrainDivider from '../components/GrainDivider.astro';
 import SocialIcons from '../components/SocialIcons.astro';
 import site from '../data/site.json';
 
-const mapQuery = encodeURIComponent(site.location);
+const mapQuery = encodeURIComponent(`${site.contactLocation}, Mumbai, India`);
 ---
 
 <BaseLayout title="Contact" description="Get in touch.">
@@ -24,7 +24,7 @@ const mapQuery = encodeURIComponent(site.location);
           </div>
           <div>
             <div class="eyebrow">Location</div>
-            <p style="margin:0;">{site.location}</p>
+            <p style="margin:0;">{site.contactLocation}</p>
           </div>
           <div>
             <div class="eyebrow">Elsewhere</div>
